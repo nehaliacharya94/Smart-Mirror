@@ -1,3 +1,4 @@
+## Smart Mirror
 _(Spring: January 2016 - May 2016)_
 
 The idea of developing a **Smart Mirror** was to have the future in our homes. I wanted to make an everyday household item smarter along with Raspberry Pi and thus, I chose mirror for their wide use case and the future implications that it holds. Also, my aim was that instead of looking up the basic information which we usually have access to on our cell phones after waking up, we see all of it in our household mirror which will be more convenient, creative and fancy.
